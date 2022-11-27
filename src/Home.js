@@ -4,8 +4,8 @@ import React from 'react'
 const Welcome = () => {
   const myStyle={
     backgroundImage: 
-    "url('https://djangoback.onrender.com/media/Posted_Images/backgroundphoto.webp)",
-color:"black"
+    "url('https://djangoback.onrender.com/media/Posted_Images/backgroundphoto.webp')",
+color:"white"
 };
   return (
     <div style={myStyle}>
