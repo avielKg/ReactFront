@@ -5,7 +5,7 @@ const Welcome = () => {
   const myStyle={
     backgroundImage: 
     "url('https://djangoback.onrender.com/media/Posted_Images/backgroundphoto.webp)",
-color:"white"
+color:"black"
 };
   return (
     <div style={myStyle}>
